@@ -3,6 +3,8 @@
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 
+// Nível Novato
+
 int main() {
     // Variáveis para Carta 1
     char codigoEstado1[50], codigoCarta1[50], nomeCidade1[100];
