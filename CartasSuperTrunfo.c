@@ -36,10 +36,10 @@ int main() {
     printf("Entre com a População (Número inteiro): \n");
     scanf("%d", &populacao1);
 
-    printf("Entre com a Área: \n");
+    printf("Entre com a Área (Número decimal): \n");
     scanf("%f", &area1);
 
-    printf("Entre com o PIB: \n");
+    printf("Entre com o PIB (Número decimal): \n");
     scanf("%f", &pib1);
 
     printf("Entre com o Número de Pontos Turísticos (Número inteiro): \n");
@@ -60,10 +60,10 @@ int main() {
     printf("Entre com a População (Número inteiro): \n");
     scanf("%d", &populacao2);
 
-    printf("Entre com a Área: \n");
+    printf("Entre com a Área (Número decimal): \n");
     scanf("%f", &area2);
 
-    printf("Entre com o PIB: \n");
+    printf("Entre com o PIB (Número decimal): \n");
     scanf("%f", &pib2);
 
     printf("Entre com o Número de Pontos Turísticos (Número inteiro): \n");
