@@ -3,7 +3,7 @@
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 
-// Nível Novato
+// Nível Aventureiro
 
 int main() {
     // Variáveis para Carta 1
